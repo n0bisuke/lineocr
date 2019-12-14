@@ -56,6 +56,8 @@ $ node example/app.js
 }
 ```
 
+<img src="https://github.com/n0bisuke/lineocr/blob/master/example/sample.png?raw=true" width="400px">
+
 ## 依存モジュール
 
 axiosを使ってます。
