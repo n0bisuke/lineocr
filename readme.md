@@ -56,7 +56,7 @@ $ node example/app.js
 }
 ```
 
-<img src="https://github.com/n0bisuke/lineocr/blob/master/example/sample.png?raw=true" width="400px">
+> <img src="https://github.com/n0bisuke/lineocr/blob/master/example/sample.png?raw=true" width="200px">
 
 ## 依存モジュール
 
