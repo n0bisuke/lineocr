@@ -1,0 +1,25 @@
+{
+  "name": "@n0bisuke/lineocr",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:n0bisuke/lineocr.git"
+  },
+  "keywords": [
+    "node",
+    "line",
+    "sdk",
+    "ocr"
+  ],
+  "dependencies": {
+    "axios": "^0.19.0",
+    "form-data": "^3.0.0"
+  }
+}
